@@ -1,1 +1,1 @@
-PLACEHOLDER
+$(cat /tmp/video_b64.txt)
